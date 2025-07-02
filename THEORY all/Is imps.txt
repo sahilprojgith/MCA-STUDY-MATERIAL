@@ -1,0 +1,41 @@
+
+a) Explain the principles and services of Information Security.
+b) Differentiate between Symmetric and Asymmetric Cryptography with examples.
+c) What are ECB, CBC, OFB, and CFB modes of operation in block cipher?
+d) What is a Firewall? Explain its types with a diagram.
+a) i. Explain the concept of Confusion and Diffusion in cryptography.
+ii. Write short notes on Stream Cipher and Block Cipher.
+b) i. Describe RSA algorithm and solve a numerical example.
+ii. Explain Extended Euclidean Algorithm with an example.
+a) i. What is Mutual Authentication? Explain the Reflection Attack.
+ii. Explain Biometric and Third Party Authentication using Kerberos Version 5.
+b) i. Describe the Digital Signature Schema and compare it with Public Key Cryptography.
+ii. Explain PKI, PKCS, and steps for Digital Certificate Creation.
+a) i. What are Hash Functions? Explain MD5 and SHA-512.
+ii. Explain Message Integrity and properties of good hash functions.
+b) i. What is IDS? Explain Stateful vs Stateless Packet Filters.
+ii. What are Bastion Hosts and Circuit-Level Firewalls?
+a) i. What are Audit Records and how are they analyzed for intrusion detection?
+ii. Describe Security Features of Operating Systems.
+b) i. Explain Security Requirements of a Database with sensitive data handling.
+ii. Describe Database Access Control and Inference Problems.
+a) Define Modular Arithmetic. How do you compute Additive and Multiplicative Inverses with examples?
+b) Write short notes on Digital Certificates and Certificate Revocation (X.509).
+c) Explain the differences between SSL and IPsec in internet security.
+d) What is an Intruder? Compare behavior of authorized user vs intruder.
+a) i. Explain the concept of Public Key Infrastructure (PKI) and private key management.
+ii. Describe the steps of digital certificate creation under PKCS.
+b) i. Define SAML Assertion and explain its use in web service security.
+ii. Differentiate between web applications and web services with examples.
+a) i. Explain Firewall Configurations and characteristics of a good firewall.
+ii. What is a Bastion Host? How is it useful in enterprise security?
+b) i. Describe Statistical Anomaly Detection and Rule-Based Detection in IDS.
+ii. What is Intrusion Detection System (IDS)? Explain its role in cybersecurity.
+a) i. Describe the Digital Signature Concept. How does it ensure integrity and authenticity?
+ii. What is HMAC? How does it differ from MAC?
+b) i. Explain the structure of an Operating System and how it helps in enforcing security.
+ii. Describe the OS tools used to implement security functions.
+a) i. Explain database inference problem with an example.
+ii. What are the key security requirements of a database?
+b) i. Describe Email security techniques: PGP and PEM.
+ii. List common email attacks and how to prevent them.
